@@ -1,0 +1,35 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260831-200801-h9hw",
+      "title": "Wîhok",
+      "commanders": [
+        "Wîhok"
+      ],
+      "guild": {
+        "id": "F76938FA-EDDF-ED11-81A9-8FB5CFBE7766",
+        "name": "Toit Miekan Siipi Taisteluun",
+        "tag": "Bee"
+      },
+      "dateStart": "2026-08-31T11:08:01.000Z",
+      "dateEnd": "2026-08-31T13:50:51.513Z",
+      "dateLabel": "2026. 8. 31. 오후 8:08:01 - 2026. 8. 31. 오후 10:50:51",
+      "url": "https://saintfox-mabasa.github.io/WvWReport/?report=20260831-200801-h9hw",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 58
+      }
+    }
+  ]
+}
