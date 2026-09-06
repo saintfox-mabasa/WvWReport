@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260906-221432-i6gx",
+      "title": "Hit N N Run",
+      "commanders": [
+        "Hit N N Run"
+      ],
+      "guild": {
+        "id": "F76938FA-EDDF-ED11-81A9-8FB5CFBE7766",
+        "name": "Toit Miekan Siipi Taisteluun",
+        "tag": "Bee"
+      },
+      "dateStart": "2026-09-06T13:14:32.000Z",
+      "dateEnd": "2026-09-06T13:47:44.146Z",
+      "dateLabel": "2026. 9. 6. 오후 10:14:32 - 2026. 9. 6. 오후 10:47:44",
+      "url": "https://saintfox-mabasa.github.io/WvWReport/?report=20260906-221432-i6gx",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 31,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20260831-200801-h9hw",
       "title": "Wîhok",
       "commanders": [
