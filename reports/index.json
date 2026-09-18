@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260918-135001-jqpa",
+      "title": "Paralda",
+      "commanders": [
+        "Paralda"
+      ],
+      "guild": {
+        "id": "5DE91D07-EED0-4835-8CD8-B77A3EA3CB1D",
+        "name": "Pyromancers",
+        "tag": "PYRO"
+      },
+      "dateStart": "2026-09-18T04:50:01.000Z",
+      "dateEnd": "2026-09-18T05:42:15.824Z",
+      "dateLabel": "2026. 9. 18. 오후 1:50:01 - 2026. 9. 18. 오후 2:42:15",
+      "url": "https://saintfox-mabasa.github.io/WvWReport/?report=20260918-135001-jqpa",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260906-221432-i6gx",
       "title": "Hit N N Run",
       "commanders": [
