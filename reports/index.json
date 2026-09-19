@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260919-112423-nhwu",
+      "title": "Nxvahh",
+      "commanders": [
+        "Nxvahh"
+      ],
+      "guild": {
+        "id": "AD029DBA-DC93-495A-A155-F87CAE6DC280",
+        "name": "Elite Apes",
+        "tag": "Apex"
+      },
+      "dateStart": "2026-09-19T02:24:23.000Z",
+      "dateEnd": "2026-09-19T03:23:36.001Z",
+      "dateLabel": "2026. 9. 19. 오전 11:24:23 - 2026. 9. 19. 오후 12:23:36",
+      "url": "https://saintfox-mabasa.github.io/WvWReport/?report=20260919-112423-nhwu",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 13,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 65
+      }
+    },
+    {
       "id": "20260918-135001-jqpa",
       "title": "Paralda",
       "commanders": [
